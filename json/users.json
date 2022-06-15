@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "62a9c4391cd5db1ef6bfa8e6"
+  },
+  "fullname": "Corrado Manfredini",
+  "username": "corradomanfri",
+  "description": "",
+  "iconAvatar": "/cover/icon/adult-g0f4dfb732_640.jpg",
+  "isAgency": false,
+  "password": "$2a$13$iOSoe9Fbrcb9DBYxSC0P3eF2EVJRdbQnP34yavC7b/XR4ibhJNsrC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9c6bb1cd5db1ef6bfa93f"
+  },
+  "fullname": "Elisa Micheli",
+  "username": "elisamicheli",
+  "description": "Ciao sono Elisa, una travel Blogger 🌍",
+  "iconAvatar": "/cover/icon/woman-gf6e947931_640.jpg",
+  "isAgency": false,
+  "password": "$2a$13$0uCsXZDtoUsuabwUT99KquwFYT5k0ytshF3.yqbqvgzW5D3MZGLJm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9cdc9827e0112d47a774f"
+  },
+  "fullname": "Marika Mantra",
+  "username": "marikamantra",
+  "description": "Ciao sono Marika,\nVivo a Londra ",
+  "iconAvatar": "/cover/icon/girl-gaa9e40c0b_640.jpg",
+  "isAgency": false,
+  "password": "$2a$13$10U1cvuilYaGRk6zgOEQjeabQ18uUzY0iyECyv4jIGx6rIQNrbBom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d0c5827e0112d47a7872"
+  },
+  "fullname": "Matteo Marino",
+  "username": "mattmare",
+  "description": "Ciao sono Matteo, amo il mare🏊",
+  "iconAvatar": "/cover/icon/portrait-g6b2db3eed_640.jpg",
+  "isAgency": false,
+  "password": "$2a$13$nS.mvk48Vfu7OxEOKQ0o4O70zxCyM9A2n3igMRNzim5DbxmoG3ODq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d2db827e0112d47a7921"
+  },
+  "fullname": "Francesco Alessi",
+  "username": "alessflame",
+  "description": "Ciao sono Francesco, un Web Developer👽",
+  "iconAvatar": "/cover/icon/flame.jpg",
+  "isAgency": false,
+  "password": "$2a$13$qVNt7DYHWDPQ9TzkNx3ov.ZEJEdP.2OzW2wLaMSbeuvhLO72Xhhey",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d446827e0112d47a7a5f"
+  },
+  "fullname": "Oceania",
+  "username": "oceania",
+  "description": "Agenzia di viaggi. Vola in Australia🐨",
+  "iconAvatar": "/cover/icon/koala-g3d2a7f736_640.jpg",
+  "isAgency": true,
+  "password": "$2a$13$ma1WwwbKRGLLGJio40zks.hG4fIIKwi9h3o9enGdtiGVt7If0xPWa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d693105b5c114ad5e5ff"
+  },
+  "fullname": "oltreoceano",
+  "username": "oltreoceano",
+  "description": "Sempre Oltre🌎",
+  "iconAvatar": "/cover/icon/sea-g0e48d47f2_640.jpg",
+  "isAgency": true,
+  "password": "$2a$13$jF.OAwa/Qb0cKlp02DVSyOKx5cVDHA8rgK62m.qb8/VQGwwH2.Sdy",
+  "__v": 0
+}]

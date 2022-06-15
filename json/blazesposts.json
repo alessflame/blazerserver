@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62a9d3b6827e0112d47a7983"
+  },
+  "id_user": "62a9d2db827e0112d47a7921",
+  "id_post": "62a9d15b827e0112d47a7891",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d3ba827e0112d47a798f"
+  },
+  "id_user": "62a9d2db827e0112d47a7921",
+  "id_post": "62a9c7491cd5db1ef6bfa984",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d3be827e0112d47a799b"
+  },
+  "id_user": "62a9d2db827e0112d47a7921",
+  "id_post": "62a9c6891cd5db1ef6bfa931",
+  "__v": 0
+}]

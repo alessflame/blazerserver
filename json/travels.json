@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "62a9d64a105b5c114ad5e56d"
+  },
+  "id_user": "62a9d446827e0112d47a7a5f",
+  "img_travel": "/cover/f73a756c-9bde-4275-804e-e921856fd246.jpeg",
+  "author": "Oceania",
+  "name": "DiscoverAustralia",
+  "countries": [
+    "Australia"
+  ],
+  "price": 4000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d70c105b5c114ad5e620"
+  },
+  "id_user": "62a9d693105b5c114ad5e5ff",
+  "img_travel": "/cover/5737ec1c-8024-4df7-8414-50dbfd396398.jpeg",
+  "author": "oltreoceano",
+  "name": "Atlantic Travel",
+  "countries": [
+    "USA",
+    "Uruguay",
+    "Argentina",
+    "Brasile"
+  ],
+  "price": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a9d758105b5c114ad5e622"
+  },
+  "id_user": "62a9d693105b5c114ad5e5ff",
+  "img_travel": "/cover/f03a8497-7879-4724-a317-33dd1846f4c2.jpeg",
+  "author": "oltreoceano",
+  "name": "Culture",
+  "countries": [
+    "Inghilterra",
+    "Italia",
+    "Portogallo",
+    "Spagna",
+    "Svizzera"
+  ],
+  "price": 3000,
+  "__v": 0
+}]
