@@ -30,6 +30,9 @@ app.use(express.urlencoded({extended:false}));
 
 app.use(cors());
 
+app.get("/", (req,res)=>{
+     res.send("homepage")
+})
 
 app.use("/posts", postRouter);
 app.use("/users", userRouter);
